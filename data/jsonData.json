@@ -1,0 +1,14 @@
+[
+  {
+    "feature":"Feature 1",
+    "price": 30,
+    "size" : 50,
+    "quantity" : 100
+  },
+  {
+    "feature":"Feature 2",
+    "price": 30,
+    "size" : 50,
+    "quantity" : 23
+  }
+]
